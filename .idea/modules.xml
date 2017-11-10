@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gitlab-connect.iml" filepath="$PROJECT_DIR$/.idea/modules/gitlab-connect.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gitlab-connect_main.iml" filepath="$PROJECT_DIR$/.idea/modules/gitlab-connect_main.iml" group="gitlab-connect" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gitlab-connect_test.iml" filepath="$PROJECT_DIR$/.idea/modules/gitlab-connect_test.iml" group="gitlab-connect" />
+    </modules>
+  </component>
+</project>
